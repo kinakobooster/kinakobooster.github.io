@@ -1,7 +1,7 @@
 /**
- *    This examples shows you how to interact with diverse HTML inputs. It follows 
- *    roughly the way that <a href="http://www.sojamo.de/libraries/controlP5/">ControlP5</a> 
- *    works for standard Processing. <br />
+ *    drag to erase Wall <br />
+ *    press SPACE and drag to draw wall again <br />
+ *    works by standard Processing. <br />
  *
  *    <form id="form-form"><!-- empty --></form>
  *    <!-- the following css adds a tiny bit of layout -->
